@@ -1,0 +1,410 @@
+[
+    {
+        "quote":"L'amitié par correspondance se tisse sur des doutes en abondance.",
+        "author":"Taha-Hassine Ferhat",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"La sincérité est à l'amitié ce que le ciment est au mortier",
+        "author":"Taha-Hassine Ferhat",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"Une amitié sincère est une affectueuse rose qui embellit à jamais le jardin humain. Seule sa saveur et son odeur émergent laissant au loin le fiel des épines.",
+        "author":"Mostefa Khellaf",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"L'amitié entre un homme et une femme cohabite dans l'imposture car il y a toujours l'un des deux qui en souhaite bien davantage.",
+        "author":"Chantal Patron",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"De nos jours, même l'amitié se fait coter en bourse : la valeur d'un ami fluctue en fonction du temps, des circonstances et des intérêts.",
+        "author":"Taha-Hassine Ferhat",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"L'amour et l'amitié sont des soeurs mais elles ne peuvent être des jumelles.",
+        "author":"Mostefa Khellaf",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"Amour, amitié, vie sociale ou politique, les mots sont les premières briques de toute révolution ou de fantastiques remparts contre l'immobilisme, l'isolement et le renoncement.",
+        "author":"Stéphane Théri",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"Si tu arbores une amitié saine et sincère, tu te rapproches doucement et sûrement de l'incarnation de la véritable toison d'un authentique humain sans vanité et sans vice.",
+        "author":"Mostefa Khellaf",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"L'amitié est un autre moi.",
+        "author":"Anonyme",
+        "theme":"Amitié"
+    },
+    {
+        "quote":"Quand la guerre sonne, les amitiés n'existent plus.",
+        "author":"Gael Crutzen",
+        "theme":"Amitié"
+    },
+
+    {
+        "quote": "Les amoureux campent rarement sur leurs positions : ils passent vite de l'inclination du coeur à l'inclinaison des corps...",
+        "author": "Daniel Confland",
+        "theme": "Amour"
+    },
+    {
+        "quote":"Une femme en amour est une tigresse ; un homme en amour est un agneau.",
+        "author":"Pierre Boisjoli",
+        "theme": "Amour"
+    },
+    {
+        "quote":"Maint amoureux d'un grain de beauté commet l'erreur d'épouser la fille entière.",
+        "author":"Un proverbe polonais",
+        "theme":"Amour"
+    },
+    {
+        "quote": "L'amour n'est pas mauvais, mais ce sont les hommes parfois qui le gèrent.",
+        "author": "Clever Kams",
+        "theme":"Amour"
+    },
+    {
+        "quote": "L'amour est le pouvoir de voir la similitude dans les dissemblables.",
+        "author":"Theodor W Adorno",
+        "theme":"Amour"
+    },
+    {
+        "quote":"L'amour et l'amitié nous blessent parfois, mais quand l'un fait mal, l'autre nous console.",
+        "author":"Kendra",
+        "theme":"Amour"
+    },
+    {
+        "quote":"L'amour c'est accepter de vivre le pire, pour espérer accéder au bonheur.",
+        "author":"Gerard Monnac",
+        "theme":"Amour"
+    },
+    {
+        "quote":"L'amour n'a ni définition ni description. Interprète le à ta façon, car ton amour t'appartiens.",
+        "author":"Leeroy Boutel",
+        "theme":"Amour"
+    },
+    {
+        "quote":"L'amour n'existe que dans l'imaginaire collectif. Ce n'est que de la prose. Seule la poésie est amour, passion même, car le mot s'unit au son qui en épouse le contour, créant du rythme.",
+        "author":"Mona Azzam",
+        "theme":"Amour"
+    },
+    {
+        "quote":"L'amour n'est plus au diapason orné de sa belle étoffe. L'homme a perdu son sens de romantisme et d'idéalisme.",
+        "author":"Mostefa Khellaf",
+        "theme":"Amour"
+    },
+
+    {
+        "quote":"L'âme habite le corps sans avoir la bienveillance de lui signifier ses dates d'arrivée et de départ",
+        "author":"Taha-Hassine Ferhat",
+        "theme":"Bienveillance"   
+    },
+    {
+        "quote":"La bonne parole est l'âme soeur de l'amitié, de la fraternité et de la bienveillance.",
+        "author":"Mostefa Khellaf",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"Chez le pervers narcissique il y a un vide sidéral, celui-ci ne peut que se nourrir d'une proie remplie de bienveillance.",
+        "author":"Sandrine Rouillé",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"L'amour, n'est pas moralisateur, il est libérateur... L'amour n'est pas la souffrance, il est la bienveillance... L'amour, n'est pas l'appartenance, il est la délivrance...",
+        "author":"Joëlle Laurencin",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"Jamais la haine ne cesse par la haine ; seule la bienveillance annihile la haine : ceci est une loi éternelle et immuable.",
+        "author":"Le Dhammapada",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"Un langage bienveillant est l'aimant qui attire les coeurs des hommes. C'est le pain de l'esprit, il revêt les mots de signification, il est la fontaine d'où coule la lumière de la sagesse et de l'intelligence.",
+        "author":"Baha'u'llah",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"La politesse est l'hypocrisie de la bienveillance.",
+        "author":"Louis Dumur",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"Traiter tous les hommes avec la même bienveillance et prodiguer indistinctement sa bonté peut tout aussi bien témoigner d'un profond mépris des hommes que d'un amour sincère à leur égard.",
+        "author":"Friedrich Nietzsche",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"La politesse ne vaut qu'autant qu'elle est doublée de bienveillance.",
+        "author":"A. Gendron",
+        "theme":"Bienveillance"
+    },
+    {
+        "quote":"Il y a une personne avec laquelle nous n'arrivons jamais a être complètement sincères, bien que nous sachions qu'elle nous connaît à fond et que nous puissions compter sur sa bienveillance : nous-mêmes.",
+        "author":"Remy de Gourmont",
+        "theme":"Bienveillance"
+    },
+
+    {
+        "quote": "Le véritable amant, c'est celui qui d'une légère caresse sur les cheveux, d'un simple sourire ou même d'un regard perdu dans le vague vous fait chavirer de bonheur.",
+        "author": "Marilyn Monroe",
+        "theme": "Bonheur"
+    },
+    {
+        "quote": "Le bonheur, c'était le peu, c'était le rare.",
+        "author": "Brigitte Giraud",
+        "theme":"Bonheur"
+    },
+    {
+        "quote": "Il n'y a pas de clé pour le bonheur, la porte est toujours ouverte",
+        "author": "Anonyme",
+        "theme": "Bonheur"
+    },
+    {
+        "quote":"Le bonheur que l'on attend est plus beau que celui dont on jouit",
+        "author":"André Maurois",
+        "theme":"Bonheur"
+    },
+    {
+        "quote":"Le bonheur c'est accepter et aimer la vie telle qu'elle est",
+        "author":"Anonyme",
+        "theme":"Bonheur"
+    },
+    {
+        "quote":"Le bonheur c'est essayer d'être bien dans sa peau, le bonheur c'est essayer de donner du bonheur aux autres",
+        "author":"Pr. Henri Joyeux",
+        "theme":"Bonheur"
+    },
+    {
+        "quote":"Pour moi, le bonheur, c'est d'être amoureux de sa propre vie",
+        "author":"Florence Servant-Schreiber",
+        "theme":"Bonheur"
+    },
+    {
+        "quote":"Le bonheur c'est de continuer à désirer ce que l'on possède",
+        "author":"Saint Augustin",
+        "theme":"Bonheur"
+    },
+    {
+        "quote":"Ramenez votre conscience à l'instant présent. C'est le moyen le plus simple et le plus efficace d'atteindre un bonheur durable",
+        "author":"Anonyme",
+        "theme":"Bonheur"
+    },
+    {
+        "quote":"Le vrai bonheur ne dépend d'aucun être, d'aucun objet extérieur. In ne dépend que de nous...",
+        "author":"Dalaï Lama",
+        "theme":"Bonheur"
+    },
+
+    {
+        "quote":"Le mensonge tue la confiance et surtout il te prive d'amis sur qui compter vraiment. Et pire que ça, le mensonge t'empêche de te voir tel que tu es réellement.",
+        "author":"Masashi Kishimoto",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"Il est cet instant où la confiance remplace bien des questions.",
+        "author":"Nathalie Pivert Chalon",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"Lorsque vous excédez de confiance vous attirez l'attention.",
+        "author":"Meily Chen",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"J'ai plus confiance dans un chien fidèle que dans un homme qui est fidèle comme un chien.",
+        "author":"Khaled Lemnouer",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"Le manque de confiance en soi peut nous freiner dans nos projets.",
+        "author":"Meily Chen",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"La confiance en soi est l'essence même de toute chose.",
+        "author":"Taguia Kana Borel",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"Je n'ai plus confiance en personne ; même lorsque je donne des sous à un mendiant, je demande un reçu...",
+        "author":"Elie de Rothschild Jr.",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"Te faire confiance est ma décision. Me prouver que j'ai raison ne dépend que de toi.",
+        "author":"Meily Chen",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"Une trop grande confiance en soi vous fait avancer mais dangereusement",
+        "author":"Meily Chen",
+        "theme":"Confiance"
+    },
+    {
+        "quote":"C'est de la confiance que naît la trahison",
+        "author":"Anonyme",
+        "theme":"Confiance"
+    },
+
+    {
+        "quote":"le courage c'est avancer pas à pas... la peur au ventre. La vigilance naît ed cet état de fait. Enfin, loin du confort et derrière les sentiers battus, elle nous emmène à destination.",
+        "author":"Robert Naït-Sid",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Etre courageux, c'est décider de rompre avec ses anciennes habitudes.",
+        "author":"Espérance Touré",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Le plus beau courage, c'est d'être né.",
+        "author":"Sonia Lahsaini",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Le courage a le mérite que l'on se doit pour exister",
+        "author":"Sonia Lahsaini",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Le vrai courage, c'est de voir le devoir avant l'effort.",
+        "author":"Szczepan Yamenski",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Il faut plus de courage pour être heureux que pour être malheureux.",
+        "author":"Simonetta Greggio",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Aie le courage d'être toi même",
+        "author":"Lucie Novilles",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Le courage est le juste milieu entre la peur et l'audace",
+        "author":"Aristote",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur.",
+        "author":"Nelson Mandela",
+        "theme":"Courage"
+    },
+    {
+        "quote":"Le courage, c'est d'aller à l'idéal et de comprendre le réel",
+        "author":"Jean Jaurès",
+        "theme":"Courage"
+    },
+
+    {
+        "quote":"La volonté s'appelle persévérance pour une bonne cause et obtination pour une mauvaise.",
+        "author":"Lawrence Sterne",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"La persévérance est un talisman pour la vie",
+        "author":"Proverbe Africain",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"La persévérance n'est pas une longue course : c'est plusieurs courses brèves l'une après l'autre.",
+        "author":"Walter Elliot",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"La persévérance vient à bout de tout",
+        "author":"Proverbe Français",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"La persévérance est une vertu obscure qui permet la médiocrité d'obtenir un succès sans gloire",
+        "author":"Ambrose Bierce",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"La persévérance est la noblesse de l'obstination.",
+        "author":"Adrien Decourcelle",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"Avec un talent ordinaire et une persévérance extraordinaire, on peut tout obtenir.",
+        "author":"Thomas Foxwell Buxton",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"L'erreur est humaine. Persévérer est diabolique.",
+        "author":"Proverbe Latin",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"L'être d'un être est de persévérer dans son être.",
+        "author":"Baruch Spinoza",
+        "theme":"Persévérance"
+    },
+    {
+        "quote":"Que le poète obscur persévère dans son obscurité, s'il veut trouver la lumière.",
+        "author":"Jean Paulhan",
+        "theme":"Persévérance"
+    },
+
+    {
+        "quote":"La lecutre n'a que des vertus, seul le lecteur peut rougir de ses faiblesses.",
+        "author":"Nathalie Pivert Chalon",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"La vertu est le maître d'oeuvre de la pensée",
+        "author":"Sonia Lahsaini",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"La vertu de l'amour, c'est de rajeunir le coeur",
+        "author":"Kheira Chakor",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"L'apparence des vertus est bien plus séduisantes que les vertus mêmes, et celui qui feint de les avoir a bien de l'avantage sur celui qui les possède.",
+        "author":"Marie-Jeanne Riccoboni",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"La femme possède de multiples vertus, qu'elle ne dévoilera, qu'à l'être qui mettra son âme à nue",
+        "author":"Joëlle Laurencin",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"L'humilité est à la vertu ce que le soleil est à la journée",
+        "author":"Dona Maurice Zannou",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"Les vertus se perdent dans les intérêts comme les fleuves se perdent dans les mers",
+        "author":"Anonyme",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"La vertu d'un voyage, c'est de purger la vie avant de la garnir.",
+        "author":"Nicolas Bouvier",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"On ne peut pas chercher la vertu chez l'une et la beauté chez l'autre",
+        "author":"Oxmo Puccino",
+        "theme":"Vertu"
+    },
+    {
+        "quote":"La vertu est quelque chose de grand, d'élevé, de souverain, d'invincible, d'infatigable ; le plaisir, quelque chose de bas, de servile, de faible, de périssable, dont le séjour et l'asile sont les lieux de prostitution et les tavernes.",
+        "author":"Sénèque",
+        "theme":"Vertu"
+    }
+
+]

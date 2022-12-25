@@ -1,0 +1,23 @@
+.rateScaleDiv{
+    display: flex;
+}
+
+.rateScaleDiv > p{
+    margin: 0;
+    padding: 0;
+}
+
+.iconRate, .iconRate2{
+    margin: 0;
+    padding: 0;
+}
+
+.iconRate{
+    width: 25px;
+    height: 25px;
+}
+
+.iconRate2{
+    width: 30px;
+    height: 30px;
+}

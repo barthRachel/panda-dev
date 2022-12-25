@@ -1,0 +1,92 @@
+.homePresentation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.homePresentation > p > img {
+    width: 100%;
+    height: 250px;
+}
+
+.homeExplaination{
+    padding: 10px;
+    text-align: center;
+}
+
+.homeExplaination > h2{
+    margin-bottom: 30px;
+}
+
+.meteoParis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.weatherAndGif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.cardDivBox{
+    margin: 0px 20px 0px 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.cardTitle{
+    border: 2px solid black;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.cardDescription{
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+    border: 2px solid black;
+}
+
+.temp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconArrow{
+    font-size: 16px;
+    margin: 0px 5px 0px 5px;
+}
+
+.weatherIconSpan{
+    font-size: 50px;
+}
+
+.gifWeather > img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.gifWeather > p{
+    font-weight: bold;
+}
+
+@media(width < 769px){
+    .homePresentation{
+        padding: 20px;
+    }
+
+    .weatherAndGif{
+        flex-direction: column;
+    }
+
+    .cardDivBox{
+        margin: 20px;
+    }
+
+}

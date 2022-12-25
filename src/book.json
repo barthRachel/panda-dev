@@ -1,0 +1,497 @@
+[
+    {
+        "title":"De verre et de cendre",
+        "author":"Reina Dolce",
+        "genre":"Amour"
+    },
+    {
+        "title":"Captive (8 tomes)",
+        "author":"Julia Sykes",
+        "genre":"Amour"
+    },
+    {
+        "title":"Faded Rose (2 tomes)",
+        "author":"Jenn Guerrieri",
+        "genre":"Amour"
+    },
+    {
+        "title":"Fais-moi une place",
+        "author":"Emma Green",
+        "genre":"Amour"
+    },
+    {
+        "title":"Over Limits (2 tomes)",
+        "author":"Laura Black",
+        "genre":"Amour"
+    },
+    {
+        "title":"Le Rockeur parfait est insolent et tatoué",
+        "author":"Camilla Simon",
+        "genre":"Amour"
+    },
+    {
+        "title":"The Killing Vipers (2 tomes)",
+        "author":"Sarah Fay",
+        "genre":"Amour"
+    },
+    {
+        "title":"After (5 tomes)",
+        "author":"Anna Todd",
+        "genre":"Amour",
+        "cover":"https://m.media-amazon.com/images/I/71hGoNNl+DL.jpg"
+    },
+    {
+        "title":"Initiation : La fille de mon boss",
+        "author":"Mélodie Chavin",
+        "genre":"Amour",
+        "cover":"https://addictives-prod-storage.storage.googleapis.com/books/covers/faf02b2358de8933f480a146f4d2d98e/conversions/de7173be888321bda1152b0ee26d589f-detail_page_cover.jpg"
+    },
+    {
+        "title":"Demain",
+        "author":"Guillaume Musso",
+        "genre":"Amour",
+        "cover":"https://m.media-amazon.com/images/I/61R3WuOEbCL.jpg"
+    },
+    
+    {
+        "title":"Lord Jim",
+        "author":"Joseph Conrad",
+        "genre":"Aventure"
+    },
+    {
+        "title":"Robinson Crusoé",
+        "author":"Daniel Defoe",
+        "genre":"Aventure"
+    },
+    {
+        "title":"Le Comte de Monte-Cristo",
+        "author":"Alexandre Dumas",
+        "genre":"Aventure"
+    },
+    {
+        "title":"Odyssée",
+        "author":"Homère",
+        "genre":"Aventure"
+    },
+    {
+        "title":"Le SOS de l'aventurier",
+        "author":"Mike Horn",
+        "genre":"Aventure"
+    },
+    {
+        "title":"Horizons Extrêmes",
+        "author":"Loury Lag",
+        "genre":"Aventure"
+    },
+    {
+        "title":"L'axe du loup",
+        "author":"Sylvain Tesson",
+        "genre":"Aventure"
+    },
+    {
+        "title":"Into the wild",
+        "author":"Jon Krakauer",
+        "genre":"Aventure",
+        "cover":"https://m.media-amazon.com/images/I/811k9HNhaiL.jpg"
+    },
+    {
+        "title":"342 heures dans les Grandes Jorasses",
+        "author":"René Desmainson",
+        "genre":"Aventure",
+        "cover":"https://m.media-amazon.com/images/I/71Zb+KVRKgL.jpg"
+    },
+    {
+        "title":"L'Antarctique, le rêve d'une vie",
+        "author":"Mike Horn",
+        "genre":"Aventure",
+        "cover":"https://static.fnac-static.com/multimedia/Images/FR/NR/af/4d/a7/10964399/1507-1/tsp20201028070349/L-Antarctique-le-reve-d-une-vie.jpg"
+    },
+
+    {
+        "title":"Le magicien",
+        "author":"Colm Toibin",
+        "genre":"Biographie"
+    },
+    {
+        "title":"La petite femelle",
+        "author":"Philippe Jaenada",
+        "genre":"Biographie"
+    },
+    {
+        "title":"Premier sang",
+        "author":"amélie Nothomb",
+        "genre":"Biographie"
+    },
+    {
+        "title":"La valse des arbres et du ciel",
+        "author":"Jean-Michel Guenassia",
+        "genre":"Biographie"
+    },
+    {
+        "title":"La valse des jours",
+        "author":"Alizé Cornet",
+        "genre":"Biographie"
+    },
+    {
+        "title":"Crénom, Baudelaire !",
+        "author":"Jean Teulé",
+        "genre":"Biographie"
+    },
+    {
+        "title":"Marilyn : Ombre et lumière",
+        "author":"Norman Rosten",
+        "genre":"Biographie"
+    },
+    {
+        "title":"Requiem",
+        "author":"Gyrdir Eliasson",
+        "genre":"Biographie"
+    },
+    {
+        "title":"Sulak",
+        "author":"Philippe Jaenada",
+        "genre":"Biographie"
+    },
+    {
+        "title":"Petite",
+        "author":"Edward Carey",
+        "genre":"Biographie",
+        "cover":"https://static.fnac-static.com/multimedia/Images/FR/NR/3e/b6/d5/14005822/1507-1/tsp20220618060616/Petite.jpg"
+    },
+    {
+        "title":"Moby-Dick ou le Cachalot",
+        "author":"Herman Melville",
+        "genre":"Biographie",
+        "cover":"https://products-images.di-static.com/image/herman-melville-moby-dick/9782075152204-475x500-1.jpg"
+    },
+    {
+        "title":"Le fracas du temps",
+        "author":"Julian Barnes",
+        "genre":"Biographie",
+        "cover":"https://static.fnac-static.com/multimedia/Images/FR/NR/b4/a8/8a/9087156/1507-1/tsp20220703090152/Le-fracas-du-temps.jpg"
+    },
+
+    {
+        "title":"L'institut",
+        "author":"Stephen King",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"Si ça saigne",
+        "author":"Stephen King",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"L'enfant des cimetières",
+        "author":"Cédric Sire",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"Déracinée",
+        "author":"Naomi Novik",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"Dracula",
+        "author":"Bram Stoker",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"La terre des damnés (3 tomes)",
+        "author":"Glenn Cooper",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"L'outsider",
+        "author":"Stephen King",
+        "genre":"Fantastique"
+    },
+    {
+        "title":"L'affaire charles dexter ward",
+        "author":"HP Lovecraft",
+        "genre":"Fantastique",
+        "cover":"https://static.fnac-static.com/multimedia/Images/FR/NR/b3/91/13/1282483/1507-1/tsp20220804062814/L-affaire-Charles-Dexter-Ward.jpg"
+    },
+    {
+        "title":"Ghost story",
+        "author":"Peter Straub",
+        "genre":"Fantastique",
+        "cover":"https://m.media-amazon.com/images/I/91I9ci1m1YL.jpg"
+    },
+    {
+        "title":"Jeu d'imprudence",
+        "author":"Jennifer Armentrout",
+        "genre":"Fantastique",
+        "cover":"https://m.media-amazon.com/images/I/61qc32MsE+L.jpg"
+    },
+
+    {
+        "title":"La Cité des nuages et des oiseaux",
+        "author":"Anthony Doerr",
+        "genre":"Histoire"
+    },
+    {
+        "title":"L'air était tout en feu",
+        "author":"Camille Pascal",
+        "genre":"Histoire"
+    },
+    {
+        "title":"Pour l'honneur de tous les miens",
+        "author":"Amanda Skenandore",
+        "genre":"Histoire"
+    },
+    {
+        "title":"Le pays au-delà des mers",
+        "author":"Christina Baker Kline",
+        "genre":"Histoire"
+    },
+    {
+        "title":"Avant la fin du monde",
+        "author":"Laurent Decaux",
+        "genre":"Histoire"
+    },
+    {
+        "title":"Un tourbillon de sable et de cendre",
+        "author":"Amy Harmon",
+        "genre":"Histoire"
+    },
+    {
+        "title":"Avec mes tendres pensées",
+        "author":"Tamara McKinley",
+        "genre":"Histoire"
+    },
+    {
+        "title":"Les Chemins d'Abéline : Louise",
+        "author":"Annabel Séguret",
+        "genre":"Histoire",
+        "cover":"https://gaelis-editions.com/wp-content/uploads/2022/07/Couverture-Louise-T1-Les-Chemins-dAbeline-Annabel-Se%CC%81guret-Gaelis-Editions.png"
+    },
+    {
+        "title":"La valse de l'adieu",
+        "author":"Philippe de Villiers",
+        "genre":"Histoire",
+        "cover":"https://m.media-amazon.com/images/I/71Y0OcqyvhL.jpg"
+    },
+    {
+        "title":"Poids plume",
+        "author":"Mick Kinston",
+        "genre":"Histoire",
+        "cover":"https://m.media-amazon.com/images/I/71Pvg4yftkL.jpg"
+    },
+
+    {
+        "title":"L'espion qui aimait les livres",
+        "author":"John le Carré",
+        "genre":"Polar"
+    },
+    {
+        "title":"Le Chuchoteur",
+        "author":"Donato Carrisi",
+        "genre":"Polar"
+    },
+    {
+        "title":"L'assassin qui est en moi",
+        "author":"Jim Thompson",
+        "genre":"Polar"
+    },
+    {
+        "title":"Pars vite et reviens tard",
+        "author":"Fred Vargas",
+        "genre":"Polar"
+    },
+    {
+        "title":"La femme en vert",
+        "author":"Arnaldur Indridason",
+        "genre":"Polar"
+    },
+    {
+        "title":"Ne le dis à personne",
+        "author":"Harlan Coben",
+        "genre":"Polar"
+    },
+    {
+        "title":"Le Poète",
+        "author":"Michael Connelly",
+        "genre":"Polar"
+    },
+    {
+        "title":"Glacé",
+        "author":"Bernard Minier",
+        "genre":"Polar",
+        "cover":"https://m.media-amazon.com/images/I/71CmtQNtV-L.jpg"
+    },
+    {
+        "title":"J'étais Dora Suarez",
+        "author":"Robin Cook",
+        "genre":"Polar",
+        "cover":"https://m.media-amazon.com/images/I/A1hEn3rQJvL.jpg"
+    },
+    {
+        "title":"Shutter Island",
+        "author":"Dennis Lehane",
+        "genre":"Polar",
+        "cover":"https://m.media-amazon.com/images/I/41VsMD23OgL.jpg"
+    },
+
+    {
+        "title":"Da Vinci Code",
+        "author":"Dan Brown",
+        "genre":"Policier"
+    },
+    {
+        "title":"De sang-froid",
+        "author":"Truman Capote",
+        "genre":"Policier"
+    },
+    {
+        "title":"Gataca",
+        "author":"Franck Thilliez",
+        "genre":"Policier"
+    },
+    {
+        "title":"Histoires extraordinaires",
+        "author":"Edgar Allan Poe",
+        "genre":"Policier"
+    },
+    {
+        "title":"La fille du train",
+        "author":"Paula Hawkins",
+        "genre":"Policier"
+    },
+    {
+        "title":"La lionne blanche",
+        "author":"Henning Mankell",
+        "genre":"Policier"
+    },
+    {
+        "title":"La nuit du renard",
+        "author":"Mary Higgins Clark",
+        "genre":"Policier"
+    },
+    {
+        "title":"La soif",
+        "author":"Jo Nesbo",
+        "genre":"Policier",
+        "cover":"https://cdn.cultura.com/cdn-cgi/image/width=768/media/pim/TITELIVE/2_9782072841187_1_75.jpg"
+    },
+    {
+        "title":"Le Couperet",
+        "author":"Donald Westlake",
+        "genre":"Policier",
+        "cover":"https://www.lalibrairie.com/cache/img/livres/111/9782743607111.jpg"
+    },
+    {
+        "title":"Le nom de la Rose",
+        "author":"Umberto Eco",
+        "genre":"Policier",
+        "cover":"https://m.media-amazon.com/images/I/81W6mh0rv1L.jpg"
+    },
+
+    {
+        "title":"Un père à soi",
+        "author":"Armel Job",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"la neige est noire à Ravensbrück",
+        "author":"Jacques Travers",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"Au-delà des tours",
+        "author":"Anaïs W.",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"Une belle journée",
+        "author":"Henry Céard",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"La plus grosse poutine du monde",
+        "author":"Andréa Poulin",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"Province",
+        "author":"Richard Millet",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"Trois jours",
+        "author":"Denis Brillet",
+        "genre":"Réaliste"
+    },
+    {
+        "title":"Par les écrans du monde",
+        "author":"Fanny Taillandier",
+        "genre":"Réaliste",
+        "cover":"https://m.media-amazon.com/images/I/41PkUNBW47L._SX340_BO1,204,203,200_.jpg"
+    },
+    {
+        "title":"Quand les sirènes se taisent",
+        "author":"Maxence Ven der Meersch",
+        "genre":"Réaliste",
+        "cover":"https://m.media-amazon.com/images/I/41NCMKXTJBL.jpg"
+    },
+    {
+        "title":"Corpus equi",
+        "author":"Diane Ducret",
+        "genre":"Réaliste",
+        "cover":"https://m.media-amazon.com/images/I/611M2iqJ+qL.jpg"
+    },
+
+    {
+        "title":"Le bureau des affaires occultes",
+        "author":"Eric Fouassier",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Signe de vie",
+        "author":"José Rodrigues dos Santos",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Que ta volonté soit faite",
+        "author":"Maxime Chattam",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Surface",
+        "author":"Olivier Norek",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Le manuscrit inachevé",
+        "author":"Franck Thilliez",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Complot",
+        "author":"Nicolas Beuglet",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Entre deux mondes",
+        "author":"Olivier Norek",
+        "genre":"Thriller"
+    },
+    {
+        "title":"Famille parfaite",
+        "author":"Lisa Gardner",
+        "genre":"Thriller",
+        "cover":"https://m.media-amazon.com/images/I/81g0roNRJ9L.jpg"
+    },
+    {
+        "title":"Soeurs",
+        "author":"Bernard Minier",
+        "genre":"Thriller",
+        "cover":"https://m.media-amazon.com/images/I/71nUZ2pBL0L.jpg"
+    },
+    {
+        "title":"Le jour de ma mort",
+        "author":"Jacques Expert",
+        "genre":"Thriller",
+        "cover":"https://m.media-amazon.com/images/I/61faTpXAQlL.jpg"
+    }
+]

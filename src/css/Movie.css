@@ -1,0 +1,22 @@
+.movieGetAll{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.getAllBloc{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+@media(width < 426px){
+    .getAllBloc{
+        display: flex;
+        flex-direction: column;
+        padding: 25px;
+    }
+}

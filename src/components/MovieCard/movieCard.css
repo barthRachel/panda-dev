@@ -1,0 +1,75 @@
+.movieCard{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 500px;
+    margin-bottom: 15px;
+    position: relative;
+    z-index: 0;
+}
+
+.movieCard:hover{
+    cursor: pointer;
+}
+
+.coverCard{
+    width: 100%;
+    height: 100%;
+}
+
+.coverCard > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.movieDescription{
+    padding: 15px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgb(255,255,255), #FFE74D 70%);
+    position : absolute;
+    z-index: 1;
+    border: 2px solid black;
+}
+
+.movieDescription > h3{
+    margin: 0;
+}
+
+.year{
+    margin: 0;
+}
+
+.actors > ul{
+    list-style: none;
+    padding: 0;
+}
+
+.actors > ul > li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.iconeActors{
+    margin-right: 10px;
+}
+
+/** Version tablette **/
+@media(width < 769px){
+    .movieCard{
+        flex-direction: row;
+        height: 300px;
+    }
+    
+}
+
+/** Version mobile **/
+@media(width < 426px){
+    .movieCard{
+        width: 100%;
+        height: 100%;
+    }
+    
+}

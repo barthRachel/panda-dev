@@ -1,0 +1,273 @@
+[
+    {
+        "title":"The Batman",
+        "director":"Matt Reeves",
+        "theme":"Action",
+        "cast":["Robert Pattinson", "Zoë Kravitz", "Paul Dano"],
+        "year": "2022",
+        "rating":"4",
+        "cover":"https://m.media-amazon.com/images/I/71LiQBHbeCL._AC_SX342_.jpg"
+    },
+    {
+        "title":"Licorice Pizza",
+        "director":"Paul Thomas Anderson",
+        "theme":"Comédie",
+        "cast":["Alana Haim", "Cooper Hoffman", "Bradley Cooper"],
+        "year":"2022",
+        "rating":"4",
+        "cover":"https://media.senscritique.com/media/000020354651/300/licorice_pizza.png"
+    },
+    {
+        "title":"Les miens",
+        "director":"Roschdy Zem",
+        "theme": "Drame",
+        "cast":["Sami Bouajila", "Roschdy Zem", "Meriem Serbah"],
+        "year":"2022",
+        "rating":"4",
+        "cover":"https://leschroniquesdecliffhanger.files.wordpress.com/2022/11/les-miens-2-cliff-and-co.jpg?w=225"
+    },
+    {
+        "title":"M3GAN",
+        "director":"Gerard Johnstone",
+        "theme":"Thriller",
+        "cast":["Allison Williams", "Violet McGraw", "Ronny Chieng"],
+        "year":"2022",
+        "rating":"0",
+        "cover":"https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg"
+    },
+    {
+        "title":"Forrest Gump",
+        "director":"Robert Zemeckis",
+        "theme":"Drame",
+        "cast":["Tom Hanks", "Gary Sinise", "Robin Wright"],
+        "year":"2015",
+        "rating":"3",
+        "cover":"https://m.media-amazon.com/images/I/61tNrpQG01L._AC_SY606_.jpg"
+    },
+    {
+        "title":"La Liste de Schindler",
+        "director":"Steven Spielberg",
+        "theme":"Historique",
+        "cast":["Liam Neeson", "Ben Kingsley","Ralph Fiennes"],
+        "year":"2019",
+        "rating":"4",
+        "cover":"https://m.media-amazon.com/images/I/71Jlt+70GML._AC_SY679_.jpg"
+    },
+    {
+        "title":"La ligne verte",
+        "director":"Frank Darabont",
+        "theme":"Policier",
+        "cast":["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+        "year":"1999",
+        "rating":"3",
+        "cover":"https://fr.web.img4.acsta.net/medias/nmedia/18/66/15/78/19254683.jpg"
+    },
+    {
+        "title":"12 hommes en colère",
+        "director":"Sidnet Lumet",
+        "theme":"Drame",
+        "cast":["Henry Fonda", "Martin Balsam","John Fiedler"],
+        "year":"2007",
+        "rating":"5",
+        "cover":"https://m.media-amazon.com/images/I/51-RJRs6PfS._AC_SY445_.jpg"
+    },
+    {
+        "title":"Le Parrain",
+        "director":"Francis Ford Coppola",
+        "theme":"Policier",
+        "cast":["Marlon Brando", "Al Pacino", "James Caan"],
+        "year":"2022",
+        "rating":"5",
+        "cover":"https://www.ecranlarge.com/uploads/image/001/173/le-parrain-affiche-francaise-1173785.jpg"
+    },
+    {
+        "title":"Les Evadés",
+        "director":"Frank Darabont",
+        "theme":"Drame",
+        "cast":["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "year":"1994",
+        "rating":"3",
+        "cover":"https://www.ecranlarge.com/uploads/image/001/181/les-evades-affiche-americaine-1181186.jpg"
+    },
+    {
+        "title":"Le Seigneur des anneaux : le retour du roi",
+        "director":"Peter Jackson",
+        "theme":"Aventure",
+        "cast":["Sean Astin", "Elijah Wood", "Viggo Mortensen"],
+        "year":"2003",
+        "rating":"4",
+        "cover":"https://static.posters.cz/image/1300/affiches-et-posters/le-seigneur-des-anneaux-le-retour-du-roi-i104633.jpg"
+    },
+    {
+        "title":"Le Roi Lion",
+        "director":"Roger Allers",
+        "theme":"Aventure",
+        "cast":["Emmanuel Curtil", "Matthew Broderick", "Dimitri Rougeul"],
+        "year":"2012",
+        "rating":"3",
+        "cover":"https://fr.web.img3.acsta.net/pictures/19/02/25/12/06/2908996.jpg"
+    },
+    {
+        "title":"Vol au-dessus d'un nid de coucou",
+        "director":"Milos Forman",
+        "theme":"Drame",
+        "cast":["Jack Nicholson", "Louise Fletcher", "William Refield"],
+        "year":"2009",
+        "rating":"5",
+        "cover":"https://antreducinema.fr/wp-content/uploads/2020/11/Vol_au_dessus_d_un_nid_de_coucou.jpg"
+    },
+    {
+        "title":"The Dark Knight, le Chevalier Noir",
+        "director":"Christopher Nolan",
+        "theme":"Action",
+        "cast":["Christian Bale", "Philippe Valmont", "Heath Ledger"],
+        "year":"2008",
+        "rating":"4",
+        "cover":"https://fr.web.img2.acsta.net/medias/nmedia/18/63/97/89/18949761.jpg"
+    },
+    {
+        "title":"Pulp Fiction",
+        "director":"Quentin Tarantino",
+        "theme":"Policier",
+        "cast":["John Travolta", "Samuel L. Jackson","Uma Thurman"],
+        "year":"1994",
+        "rating":"4",
+        "cover":"https://m.media-amazon.com/images/I/71mlgE7nUdL._AC_SY679_.jpg"
+    },
+    {
+        "title":"Il était une fois dans l'Ouest",
+        "director":"Sergio Leone",
+        "theme":"Western",
+        "cast":["Henry Fonda", "Charles Bronson","Frank Wolff"],
+        "year":"2018",
+        "rating":"4",
+        "cover":"https://fr.web.img5.acsta.net/pictures/16/07/19/17/05/434841.jpg"
+    },
+    {
+        "title":"Le bon, la brute et le truand",
+        "director":"Sergio Leone",
+        "theme":"Western",
+        "cast":["Clint Eastwood", "Eli Wallach", "Lee Van Cleef"],
+        "year":"2014",
+        "rating":"4",
+        "cover":"https://fr.web.img2.acsta.net/pictures/14/09/23/10/28/237103.jpg"
+    },
+    {
+        "title":"Il était une fois en Amérique",
+        "director":"Sergio Leone",
+        "theme":"Policier",
+        "cast":["Robert de Niro", "James Wood", "Elizabeth McGovern"],
+        "year":"2015",
+        "rating":"5",
+        "cover":"https://fr.web.img3.acsta.net/pictures/15/03/27/15/08/436989.jpg"
+    },
+    {
+        "title":"Django Unchained",
+        "director":"Quentin Tarantino",
+        "theme":"Western",
+        "cast":["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+        "year":"2012",
+        "rating":"5",
+        "cover":"https://m.media-amazon.com/images/I/81sfuF1VbaL._AC_SY550_.jpg"
+    },
+    {
+        "title":"Le Seigneur des anneaux : la communauté de l'anneau",
+        "director":"Peter Jackson",
+        "theme":"Aventure",
+        "cast":["Elijah Wood", "Sean Astin", "Ian McKellen"],
+        "year":"2001",
+        "rating":"4",
+        "cover":"https://fr.web.img6.acsta.net/medias/nmedia/00/02/16/27/69218096_af.jpg"
+    },
+    {
+        "title":"Gladiator",
+        "director":"Ridley Scott",
+        "theme":"Action",
+        "cast":["Russel Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "year":"2000",
+        "rating":"4",
+        "cover":"https://m.media-amazon.com/images/I/71LPLHCs7HL._AC_SY606_.jpg"
+    },
+    {
+        "title":"Gran Torino",
+        "director":"Clint Eastwood",
+        "theme":"Drame",
+        "cast":["Clint Eastwood", "Bee Vang", "Ahney Her"],
+        "year":"2008",
+        "rating":"5",
+        "cover":"https://www.ecranlarge.com/uploads/image/001/132/jpj2ot0gcj9n7s5lrag11hahgcw-062.jpg"
+    },
+    {
+        "title":"Le Seigneur des anneaux : les deux tours",
+        "director":"Peter Jackson",
+        "theme":"Aventure",
+        "cast":["Elijah Wood", "Sean Astin", "Viggo Mortensen"],
+        "year":"2002",
+        "rating":"4",
+        "cover":"https://fr.web.img6.acsta.net/medias/nmedia/00/02/54/95/affiche2.jpg"
+    },
+    {
+        "title":"Interstellar",
+        "director":"Christopher Nolan",
+        "theme":"Drame",
+        "cast":["Matthew McConaughey", "Anne Hathaway", "Michael Caine"],
+        "year":"2014",
+        "rating":"4",
+        "cover":"https://m.media-amazon.com/images/I/61ASebTsLpL._AC_SY741_.jpg"
+    },
+    {
+        "title":"Seven",
+        "director":"David Fincher",
+        "theme":"Policier",
+        "cast":["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow"],
+        "year":"1995",
+        "rating":"4",
+        "cover":"http://ekladata.com/0wCSVMPp0XqVH-4LcSoEAtIuPlk.jpg"
+    },
+    {
+        "title":"Coco",
+        "director":"Lee Unkrich",
+        "theme":"Famille",
+        "cast":["Andrea Santamaria", "Anthony Gonzalez", "Benjamin Bratt"],
+        "year":"2017",
+        "rating":"4",
+        "cover":"https://lumiere-a.akamaihd.net/v1/images/p_coco_19736_fd5fa537.jpeg"
+    },
+    {
+        "title":"Your Name",
+        "director":"Makoto Shinkai",
+        "theme":"Fantastique",
+        "cast":["Yoann Borg", "Ryûnosuke Kamiki", "Alice Orsat"],
+        "year":"2016",
+        "rating":"4",
+        "cover":"https://fr.web.img2.acsta.net/pictures/16/12/12/13/49/295774.jpg"
+    },
+    {
+        "title":"Parasite",
+        "director":"Bong Joon Ho",
+        "theme":"Thriller",
+        "cast":["Song Kang-Ho", "Woo-sik Choi", "Park So-Dam"],
+        "year":"2019",
+        "rating":"5",
+        "cover":"https://m.media-amazon.com/images/I/71lrpAOFQJS._AC_SY445_.jpg"
+    },
+    {
+        "title":"Les Affranchis",
+        "director":"Martin Scorese",
+        "theme":"Drame",
+        "cast":["Ray Liotta", "Robert de Niro", "Joel Pesci"],
+        "year":"1990",
+        "rating":"5",
+        "cover":"https://fr.web.img3.acsta.net/medias/nmedia/00/02/56/92/aff.jpg"
+    },
+    {
+        "title":"Fight Club",
+        "director":"David Fincher",
+        "theme":"Drame",
+        "cast":["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "year":"2019",
+        "rating":"3",
+        "cover":"https://m.media-amazon.com/images/I/81lWSgABn2L._AC_SY606_.jpg"
+    }
+    
+]

@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+*{
+  font-family : 'Montserrat';
+  box-sizing : border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/** CSS Couleurs **/
+.primary{
+  color: #FFE74D;
+}
+.secondary{
+  color: #FFF7C3;
+}
+
+.tertiary{
+  color: #FC8600;
+}
+
+.primaryBackground{
+ background-color: #FFE74D;
+}
+
+.secondaryBackground{
+  background-color: #FFF7C3;
+}
+
+.tertiaryBackground{
+  background-color: #FC8600;
+}
+
+/** CSS Générique entre les pages **/
+
+.divBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.entireBox{
+  max-width: 1400px;
+}
+
+.divPresentation{
+  text-align: center;
+  padding: 0px 20px 0px 20px;
+}
+
+/* Citation / Livre / Films - Partie génération */
+.divGenerate{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-width: 700px;
+  margin-bottom: 30px;
+}
+
+.divGenerate > h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.generateIcon{
+  margin-left: 10px;
+}
+
+.separateLine{
+  width: 700px;
+}
+
+
+/** CSS Bouton Génération Citation / Livre / Film **/
+.generateButton{
+  border: 2px solid black;
+  margin: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #FFE74D;
+  border-radius: 20px;
+}
+
+.generateButton:hover{
+  cursor: pointer;
+}
+
+/* Version Mobile & Tablette */
+@media(width < 769px){
+  /** CSS Générique entre les pages **/
+  .entireBox{
+    width: 100%;
+    max-width: none;
+    min-width: none;
+  }
+  
+  .divPresentation{
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+    width: 100%;
+  }
+
+  /* Citation / Livre / Films - Partie génération */
+  .divGenerate{
+    min-width: 100%;
+    max-width: none;
+    width: 100%;
+    padding: 0 30px 0 30px;
+  }
+
+  .separateLine{
+    width: 250px;
+  }
+}
