@@ -112,7 +112,7 @@ function Home() {
               <div className='cardTitle primaryBackground'>
                 <h3> {cityName} - {cityCP}</h3>
               </div>
-              <div className='cardDescription'>
+              <div className='cardDescription whiteBackground'>
                 <p className='temp'>Températures : {tempMin} °C <FaArrowRight className='iconArrow'/> {tempMax} °C </p>
                 <p>Temps général :<br/> <span className='weatherIconSpan'>{weatherIcon}</span></p>
                 <p>Probabilité de pluie : {probRain} % </p>

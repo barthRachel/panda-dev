@@ -55,7 +55,7 @@ function Book() {
         <div className='entireBox'>
           <div className='divPresentation'>
             <h1>Plutôt d'humeur à lire un livre ?</h1>
-            <p>Vous ne savez plus quoi lire car vous avez séchez votre bibliothèque ? Vous êtes au bon endroit. <br/>
+            <p>Vous ne savez plus quoi lire car vous avez séché votre bibliothèque ? Vous êtes au bon endroit. <br/>
             Et si vous vous challengiez ? Générez un titre de livre au hasard et si vous ne l'avez pas déjà lu, alors faites le ! Peut-être que vous découvrirez une pépite.
             </p>
           </div>
@@ -88,21 +88,21 @@ function Book() {
               <div className='bookByThemeBooks' style={clicked ? {display : "flex"} : {display : "none"}}>
                 <div className='displayBook'>
                   <img src='' alt='Couverture du livre' className='coverBook'/>
-                  <div className='bookTitleAuthorDisplay secondaryBackground'>
+                  <div className='bookTitleAuthorDisplay whiteBackground'>
                     <p className='bookTitle'></p>
                     <p className='bookAuthor'></p>
                   </div>
                 </div>
                 <div className='displayBook'>
                   <img src='' alt='Couverture du livre' className='coverBook'/>
-                  <div className='bookTitleAuthorDisplay secondaryBackground'>
+                  <div className='bookTitleAuthorDisplay whiteBackground'>
                     <p className='bookTitle'></p>
                     <p className='bookAuthor'></p>
                   </div>
                 </div>
                 <div className='displayBook'>
                   <img src='' alt='Couverture du livre' className='coverBook'/>
-                  <div className='bookTitleAuthorDisplay secondaryBackground'>
+                  <div className='bookTitleAuthorDisplay whiteBackground'>
                     <p className='bookTitle'></p>
                     <p className='bookAuthor'></p>
                   </div>

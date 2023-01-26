@@ -1,4 +1,5 @@
 .divBoxFooter{
+    border-top: 3px solid black;
     padding: 10px 0px 10px 0px;
 }
 .divGeneral{
@@ -8,10 +9,9 @@
 
 .logoFooter{
     width: 70px;
-    border-radius: 50%;
 }
 
-.copyParagraph{
+.copyParagraph, .creditLogo, .linkDiscord{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,6 +20,19 @@
 
 .iconCopy{
     margin-right: 5px;
+}
+
+.linkDiscord{
+    color: black;
+    text-decoration: underline double;
+}
+
+.linkDiscord:hover{
+    text-decoration: underline;
+}
+
+.iconCredit{
+    margin-left: 5px;
 }
 
 .iconFooter{
@@ -34,3 +47,21 @@
     color: black;
 }
 
+@media(width < 500px){
+    .creditLogo, .iconFooter{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .copyCredit{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .logoFooterParagraph{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

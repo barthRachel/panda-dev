@@ -25,8 +25,8 @@ function Quote() {
         <div className='entireBox quoteBox'>
           <div className='divPresentation'>
             <h1>Besoin d'un moment pour réfléchir ?</h1>
-            <p>Le plus simple est de cliquer sur le bouton de génération de citation et posez vous pour y réfléchir.<br/>
-            Ah ! Au passage... il parraît que si vous cliquer sur le chat en dessous, vous réfléchirez moins... Je dis ça comme ça ! </p>
+            <p>Le plus simple est de cliquer sur le bouton de génération de citations et posez-vous pour y réfléchir.<br/>
+            Ah ! Au passage... il paraît que si vous cliquer sur le chat en dessous, vous réfléchirez moins... Je dis ça comme ça ! </p>
           </div>
           <div className="divGenerate">
             <h2>Découvrez une citation <FaQuoteRight className='generateIcon'/></h2>

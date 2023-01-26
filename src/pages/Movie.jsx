@@ -25,7 +25,7 @@ function Movie() {
       <div className='entireBox'>
         <div className='divPresentation'>
           <h1>On se matte un film ?</h1>
-          <p>A vous de choisir. Si vous ne savez pas ce qu'on peut regarder, vous pouvez toujours générer un titre au pif !<br />
+          <p>À vous de choisir. Si vous ne savez pas ce qu'on peut regarder, vous pouvez toujours générer un titre au pif !<br />
             Perso, je m'occupe du pop-corn et des boissons.
           </p>
         </div>

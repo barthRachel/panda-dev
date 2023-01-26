@@ -11,6 +11,10 @@
     height: 50px;
 }
 
+.collapseDivTitle:hover{
+    cursor: pointer;
+}
+
 .collapseTitle{
     color: black;
 }
@@ -19,11 +23,7 @@
     font-size: 30px;
 }
 
-.buttonUpDown:hover{
-    cursor: pointer;
-}
-
-.content-parent {
+.content-parent{
     border-radius: 10px;
     height: 0px;
     width: 100%;

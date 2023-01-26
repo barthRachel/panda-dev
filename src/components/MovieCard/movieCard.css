@@ -30,7 +30,7 @@
     background: linear-gradient(rgb(255,255,255), #FFE74D 70%);
     position : absolute;
     z-index: 1;
-    border: 2px solid black;
+    border: 3px solid black;
 }
 
 .movieDescription > h3{

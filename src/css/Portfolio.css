@@ -1,0 +1,14 @@
+.linkGit{
+    text-decoration: underline double;
+    color: black;
+}
+
+.linkGit:hover{
+    text-decoration: underline;
+}
+
+.getAllProjects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

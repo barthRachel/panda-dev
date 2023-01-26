@@ -16,7 +16,7 @@
 }
 
 .tagList > button {
-    border: 2px solid black;
+    border: 3px solid black;
     font-weight: bold;
     font-size: 18px;
     padding: 10px 20px 10px 20px;
@@ -50,7 +50,7 @@
 .bookTitleAuthorDisplay{
     margin-top: 20px;
     border-radius: 20px;
-    border: 2px solid black;
+    border: 3px solid black;
 }
 
 .bookAuthor{
