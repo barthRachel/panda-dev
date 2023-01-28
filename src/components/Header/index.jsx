@@ -36,7 +36,7 @@ function Header() {
       </Link>
 
       <nav className='navHeader'>
-        <Link to="/panda-dev" id='Home' data-id="Home" className='navigationLink navigationOn' onClick={changePage}> <FaHome className='iconHeader'/> Accueil</Link>
+        <Link to="/" id='Home' data-id="Home" className='navigationLink navigationOn' onClick={changePage}> <FaHome className='iconHeader'/> Accueil</Link>
         <Link to="/quote" id='Quote' data-id="Quote" className='navigationLink' onClick={changePage}> <FaQuoteLeft className='iconHeader'/> Citations</Link>
         <Link to="/book" id='Book' data-id="Book" className='navigationLink' onClick={changePage}><FaBook className='iconHeader'/> Livres</Link>
         <Link to="/movie" id='Movie' data-id="Movie" className='navigationLink' onClick={changePage}><FaTv className='iconHeader'/> Films</Link>
