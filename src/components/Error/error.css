@@ -1,0 +1,18 @@
+.errorBox{
+    height: 74.8vh;
+    width: 74.8vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorTitleBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoError{
+    height: 50px;
+}

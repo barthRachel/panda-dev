@@ -19,7 +19,7 @@
 .navigationLink{
     display: flex;
     justify-content: center;
-    border: 3px solid transparent;
+    border: 2px solid transparent;
     margin: 10px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
@@ -29,7 +29,7 @@
 
 .navigationLink:hover, .navigationOn{
     background-color: #FFE74D;
-    border: 3px solid black;
+    border: 2px solid black;
     border-radius: 20px;
 }
 

@@ -31,7 +31,7 @@ function Header() {
 
   return (
     <div className='headerDiv'>
-      <Link to="/panda-dev" id='Logo' data-id="LogoH" onClick={changePage}>
+      <Link to="/" id='Logo' data-id="LogoH" onClick={changePage}>
         <img src={logo} alt="Logo PandaDev" className='logoNav'/>
       </Link>
 
