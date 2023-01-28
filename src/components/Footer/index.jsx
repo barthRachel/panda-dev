@@ -15,7 +15,7 @@ function Footer() {
             <FaRegCopyright className="iconCopy"/> PandaDev - 2023
           </p>
           <p className="creditLogo">
-            Logo by&nbsp;<a className="linkDiscord" href="https://discord.gg/StQ65wxp9J" rel="noreferrer" target="_blank"> Web | Market <FaDiscord className="iconCredit"/></a>
+            Logo by&nbsp;<a className="linkDiscord" href="https://discord.gg/fxZG55KQ4k" rel="noreferrer" target="_blank"> Web | Market <FaDiscord className="iconCredit"/></a>
           </p>
         </div>
 
