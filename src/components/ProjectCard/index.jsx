@@ -6,7 +6,7 @@ function ProjectCard({cover, name, date, projectLinkWeb, repositoryLink}) {
         <div className='projectCard whiteBackground'>
             <div className='projectCardBox'>
                 <div className='projectCover'>
-                    <img className='projectCoverImg' src={cover} alt="Project Cover"/>
+                    <a href={projectLinkWeb}  rel="noreferrer" target="_blank"><img className='projectCoverImg' src={cover} alt="Project Cover"/></a>
                 </div>
                 <div className='projectDescription'>
                     <p className='projectName'>Projet « {name} »</p>

@@ -1,11 +1,12 @@
 import '../css/Portfolio.css'
 import ProjectCard from '../components/ProjectCard';
 import projectList from '../projects.json';
+import BackToTop from 'react-back-to-top-button';
 
 function Portfolio(){
 
-        document.title = "Pandadev | Portfolio"
-
+    document.title = "Pandadev | Portfolio"
+       
     return (
         <div className='divBox'>
             <div className='entireBox'>
@@ -28,6 +29,15 @@ function Portfolio(){
                         )) 
                     }
                 </div>
+
+                <BackToTop
+                    showOnScrollDown
+                    showAt={190}
+                    speed={900}
+                    easing="easeInOutQuint"
+                >
+                    <span className='backToTop primaryBackground'>&#5169;</span>
+                </BackToTop>
             </div>
         </div>
     )

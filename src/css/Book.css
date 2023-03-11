@@ -26,7 +26,8 @@
 
 .tagList > button:hover{
     cursor: pointer;
-    background-color: #FC8600 ;
+    background-color: #FFA033; ;
+    transition: background-color 0.25s ease-in-out;
 }
 
 .bookByThemeBooks{

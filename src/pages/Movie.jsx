@@ -4,6 +4,7 @@ import {useState } from 'react';
 import {FaTv} from 'react-icons/fa';
 import GenerateCard from '../components/GenerateCard';
 import MovieCard from '../components/MovieCard';
+import BackToTop from 'react-back-to-top-button';
 
 function Movie() {
 
@@ -56,6 +57,15 @@ function Movie() {
             }
           </div>
         </div>
+
+        <BackToTop
+          showOnScrollDown
+          showAt={190}
+          speed={900}
+          easing="easeInOutQuint"
+        >
+          <span className='backToTop primaryBackground'>&#5169;</span>
+        </BackToTop>
       </div>
 
     </div>

@@ -41,10 +41,16 @@
     align-items: center;
 }
 
-.iconFooter > a{
+.iconFooter > a {
     font-size: 30px;
     margin: 10px;
     color: black;
+    
+}
+
+.iconFooter > a:hover {
+    color: #292929;
+    transition: color 0.30s ease-in-out;
 }
 
 @media(width < 500px){

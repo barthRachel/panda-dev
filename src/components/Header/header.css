@@ -33,6 +33,10 @@
     border-radius: 20px;
 }
 
+.navigationLink:hover {
+    transition: background-color 0.25s ease-in-out, border 0.25s ease-in-out;
+}
+
 .iconHeader{
     margin-right: 5px;
 }
