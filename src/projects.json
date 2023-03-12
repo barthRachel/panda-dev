@@ -1,5 +1,12 @@
 [
     {
+        "cover" : "https://zupimages.net/up/23/10/kaqt.png",
+        "name" : "Booki (Nouvelle version)",
+        "date" : "12 Mars 2023",
+        "url" : "https://barthrachel.github.io/Booki-V2/",
+        "repository" : "https://github.com/barthRachel/Booki-V2"
+    },
+    {
         "cover" : "https://zupimages.net/up/23/06/yal4.png",
         "name" : "Pand'Adresses",
         "date" : "4 Février 2023",
